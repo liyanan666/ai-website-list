@@ -19,11 +19,13 @@ OpenAI 开发的 ChatGPT 自上线以来迅速在全球范围内引起轰动。�
 
 * ChatGPT 镜像站点
 
-   * [海鲸AI(免费使用)](https://www.atalk-ai.com/talk/)
+   * [ai写作](https://www.atalk-ai.com/talk/)
 
    * [Free GPT（需要翻墙）](https://freegpt.one/)
 
    * [BAI Chat（需要翻墙）](https://chatbot.theb.ai/)
+ 
+   * [ai写论文](https://www.atalk-ai.com/talk/article)
 
    * [GPT3.5-Chatbot](https://thechatgpt.ai/chat)
 
@@ -38,6 +40,8 @@ OpenAI 开发的 ChatGPT 自上线以来迅速在全球范围内引起轰动。�
    * [AI Chat](https://ai227.com/)
 
    * [94 GPT（需要翻墙）](https://94gpt.com/)
+     
+   * [ai文档解析](https://www.atalk-ai.com/talk/docs)
 
    * [ChatAI（需要翻墙）](https://chat.uue.me/)
 
@@ -59,7 +63,7 @@ OpenAI 开发的 ChatGPT 自上线以来迅速在全球范围内引起轰动。�
 
 * AI 绘图
 
-    * [MidjourneyAI绘画中文版](https://www.atalk-ai.com/talk/image)
+    * [AI绘画](https://www.atalk-ai.com/talk/image)
 
     * [Stable Diffusion 2-1（需要翻墙）](https://huggingface.co/spaces/stabilityai/stable-diffusion)
 
@@ -91,7 +95,7 @@ OpenAI 开发的 ChatGPT 自上线以来迅速在全球范围内引起轰动。�
 
     * 海鲸AI
 
-        * [海鲸AI 官网](https://www.atalk-ai.com/talk/)
+        * [海鲸AI 官网](https://www.atalk-ai.com/)
 
 
 * PPT
